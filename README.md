@@ -1,2 +1,3 @@
 # car_classification
-car classifier with CNN for Vision AI taskphase
+car classifier with using Mobile-Net V2 architecture CNN
+
